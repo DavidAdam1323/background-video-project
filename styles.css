@@ -32,6 +32,16 @@
   color: transparent;
 }
 
+.content a {
+  text-decoration: none;
+  display: inline-block;
+  color: white;
+  font-size: 24px;
+  border: 2px solid white;
+  padding: 14px 50px;
+  margin-top: 20px;
+}
+
 .back-video {
   position: absolute;
   right: 0;
